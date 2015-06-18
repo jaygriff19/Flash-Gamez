@@ -1,7 +1,4 @@
 # Flash-Gamez
-Hi, I'm Jaden! 
-This is a very early version of my Flash games website (Flash Gamez)
-Most of the games you will find here are from http://www.physicsgames.net/ which is a very helpful site for finding games.
+Welcome! Flash Gamez is a source of content for new Flash games sites. This project will not always be updated. Its just something to do in my free time. :D
 
-Thanks!
-Jaden Robert Griffin
+A Jaden Griffin Project.
